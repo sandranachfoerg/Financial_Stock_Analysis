@@ -1,4 +1,4 @@
-# Risk, Return Stock Analysis
+# Risk and Return Stock Data Analysis
 
 
 <img src= "https://user-images.githubusercontent.com/49343277/117005478-4dd82100-acb5-11eb-9b05-b96478674e55.png" width = "100">
